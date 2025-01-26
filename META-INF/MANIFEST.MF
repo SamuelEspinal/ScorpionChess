@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 17
+Specification-Title: ScorpionChess
+Specification-Version: 1.0
+Implementation-Title: ScorpionChess
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: main.java.ScorpionChess
+
