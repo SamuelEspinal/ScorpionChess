@@ -16,7 +16,7 @@ Scorpion Chess is a powerful chess engine designed to play against you with a sm
 
 ## 📖 Learn More About the AI
 
-If you’re curious about the inner workings of the AI used in this engine, check out the **Projects** section on my [website](#) for a detailed breakdown. You’ll learn about the algorithms, heuristics, and design principles that make Scorpion Chess tick.
+If you’re curious about the inner workings of the AI used in this engine, check out the **Projects** section on my [website](https://samuelespinal.com/projects/scorpion-chess) for a detailed breakdown. You’ll learn about the algorithms, heuristics, and design principles that make Scorpion Chess tick.
 
 ---
 
