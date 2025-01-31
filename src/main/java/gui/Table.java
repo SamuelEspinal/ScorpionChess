@@ -504,8 +504,9 @@ public class Table {
         @Override
         protected Move doInBackground() {
             final Move bestMove;
-            final int quiescenceFactor = 4; // Example value, adjust based on your needs
+            final int quiescenceFactor = 4;
             //GARBAGE DONT USE THIS GUY BELOW
+            //NEEDS WORK HES NOT SMART YET
             final MoveStrategy strategy = new AlphaBetaWithMoveOrdering(Table.get().getGameSetup().getSearchDepth(), quiescenceFactor);
             
             //THIS GUY CHILL
